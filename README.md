@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DHARSHAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Computer Science Engg**
+- 🌱 I’m currently learning **Computer Science Engg - II Year**
 
 - 📫 How to reach me **shakthidharshan0000@gmail.com**
 
